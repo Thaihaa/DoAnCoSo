@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnCoSo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnCoSo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\ButBiCaoCap.png",
+      "PackagePath": "staticwebassets\\img\\ButBiCaoCap.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\ButBiHH.png",
+      "PackagePath": "staticwebassets\\img\\ButBiHH.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\ButBiThienLong.png",
+      "PackagePath": "staticwebassets\\img\\ButBiThienLong.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\ButChiHH.png",
+      "PackagePath": "staticwebassets\\img\\ButChiHH.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\ButChiKimSliver.png",
+      "PackagePath": "staticwebassets\\img\\ButChiKimSliver.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\ButGel.png",
+      "PackagePath": "staticwebassets\\img\\ButGel.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\ButLongDauThienLong.png",
+      "PackagePath": "staticwebassets\\img\\ButLongDauThienLong.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\SoLoXo.png",
+      "PackagePath": "staticwebassets\\img\\SoLoXo.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\VoCampus.png",
+      "PackagePath": "staticwebassets\\img\\VoCampus.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\banner1.png",
+      "PackagePath": "staticwebassets\\img\\banner1.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\banner2.png",
+      "PackagePath": "staticwebassets\\img\\banner2.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\favlogo.png",
+      "PackagePath": "staticwebassets\\img\\favlogo.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\img\\logoindex.png",
+      "PackagePath": "staticwebassets\\img\\logoindex.png"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cơ sở\\DoAnCoSo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoAnCoSo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoAnCoSo.props",
+      "PackagePath": "build\\DoAnCoSo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnCoSo.props",
+      "PackagePath": "buildMultiTargeting\\DoAnCoSo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoAnCoSo.props",
+      "PackagePath": "buildTransitive\\DoAnCoSo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
